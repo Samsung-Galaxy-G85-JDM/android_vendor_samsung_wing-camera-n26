@@ -48,4 +48,4 @@ PRODUCT_COPY_FILES += \
 
 
 PRODUCT_SOONG_NAMESPACES += \
-    vendor/samsung/wing-camera
+    vendor/samsung/wing-camera-26
