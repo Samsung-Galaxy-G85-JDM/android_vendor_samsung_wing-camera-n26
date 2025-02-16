@@ -13,7 +13,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     vendor/samsung/wing-camera-n26/proprietary/system/lib64/libanc_fullhdr.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libanc_fullhdr.so \
     vendor/samsung/wing-camera-n26/proprietary/system/lib64/libaw_filter.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libaw_filter.so \
-    vendor/samsung/wing-camera-n26/proprietary/system/lib64/libBSTAiScene.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libBSTAiScene.so \
     vendor/samsung/wing-camera-n26/proprietary/system/lib64/libBSTbase_share.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libBSTbase_share.so \
     vendor/samsung/wing-camera-n26/proprietary/system/lib64/libBSTBeauty.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libBSTBeauty.so \
     vendor/samsung/wing-camera-n26/proprietary/system/lib64/libBSTFoodMode.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libBSTFoodMode.so \
